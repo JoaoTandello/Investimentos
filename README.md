@@ -7,22 +7,22 @@ O projeto tem como objetivo desenvolver formulários utilizando Flutter, com foc
 Para uma melhor apresentação do projeto, a seguir estão algumas imagens das telas desenvolvidas para os desafios:
 
 ### Investimento:
-| Tela 1 | Tela 2 | Tela 3 |
-| :------: | :----: | :----------: |
-| ![Tela inicial]("C:\Users\Joao\Documents\Investimentos\assets\invest_inicial.png")| ![Tela inicial](./assets/simulinvest.png) | 
+| Tela 1 | Tela 2 |
+| :------: | :----: | 
+| ![Tela inicial]("/assets\invest_inicial.png")| ![Tela inicial](./assets/simulinvest.png) | 
 
 ---
 
 ### Bitola:
-| Tela 1 | Tela 2 | Tela 3 |
-| :------: | :----: | :----------: |
+| Tela 1 | Tela 2 | 
+| :------: | :----: |
 | ![Tela inicial](./assets/inicialbitola.png)| ![Tela inicial](./assets/simulbitola.png) |
 
 ---
 
 ### Financiamento:
-| Tela 1 | Tela 2 | Tela 3 |
-| :------: | :----: | :----------: |
+| Tela 1 | Tela 2 | 
+| :------: | :----: |
 | ![Tela inicial](./assets/inicialfinanc.png)| ![Tela inicial](./assets/simulfinanc.png) |
 
 ---
