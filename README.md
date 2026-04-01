@@ -24,7 +24,7 @@ Para o projeto, foram utilizadas as seguintes tecnologias:
 ## Como executar:
 Para executar os projetos, siga as instruções a seguir:
 1. Entre em um dos repositórios dos projetos
-   - [Bitola2026](https://github.com/ElisaMarielle/bitola2026)
+   - [Bitola2026](https://github.com/JoaoTandello/Investimentos)
    - [Financiamento2026](https://github.com/ElisaMarielle/financiamento2026)
    - [Investimento2026](https://github.com/ElisaMarielle/investimento2026)
 2. Aperte no botão azul "<> Code" e copie o link do repositório (HTTPS)
