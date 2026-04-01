@@ -9,7 +9,7 @@ Para uma melhor apresentação do projeto, a seguir estão algumas imagens das t
 ### Investimento:
 | Tela 1 | Tela 2 |
 | :------: | :----: | 
-| ![Tela inicial]("./assets/invest_inicial.png")| ![Tela inicial]("./assets/invest.png") | 
+| ![Tela inicial]("assets/invest_inicial.png")| ![Tela inicial]("assets/invest.png") | 
 
 ---
 
