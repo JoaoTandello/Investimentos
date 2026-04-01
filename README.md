@@ -9,21 +9,21 @@ Para uma melhor apresentação do projeto, a seguir estão algumas imagens das t
 ### Investimento:
 | Tela 1 | Tela 2 | Tela 3 |
 | :------: | :----: | :----------: |
-| ![Tela inicial](./assets/invest_inicial.png)| ![Tela inicial](./assets/simulinvest.png) | ![Tela inicial](./assets/resultinvest.png) |
+| ![Tela inicial]("C:\Users\Joao\Documents\Investimentos\assets\invest_inicial.png")| ![Tela inicial](./assets/simulinvest.png) | 
 
 ---
 
 ### Bitola:
 | Tela 1 | Tela 2 | Tela 3 |
 | :------: | :----: | :----------: |
-| ![Tela inicial](./assets/inicialbitola.png)| ![Tela inicial](./assets/simulbitola.png) | ![Tela inicial](./assets/resultbitola.png) |
+| ![Tela inicial](./assets/inicialbitola.png)| ![Tela inicial](./assets/simulbitola.png) |
 
 ---
 
 ### Financiamento:
 | Tela 1 | Tela 2 | Tela 3 |
 | :------: | :----: | :----------: |
-| ![Tela inicial](./assets/inicialfinanc.png)| ![Tela inicial](./assets/simulfinanc.png) | ![Tela inicial](./assets/resultfinanc.png) |
+| ![Tela inicial](./assets/inicialfinanc.png)| ![Tela inicial](./assets/simulfinanc.png) |
 
 ---
 
